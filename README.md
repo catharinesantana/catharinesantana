@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá, pessoal! 👋
 
-<!--
-**catharinesantana/catharinesantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é *Catharine* e estou entrando agora no mundo da tecnologia.  
+Tenho paixão por aprender programação, desenvolvimento e estou sempre buscando crescer, adquirir e compartilhar conhecimento.
 
-Here are some ideas to get you started:
+## Minha linha de estudos atual:
+- Desenvolvimento Frontend (HTML, CSS, JavaScript)
+- Lógica de programação e Algoritmos
+- Noções básicas de Banco de Dados
+- Fundamentos de Orientação a Objetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+
+### Linguagens:
+- *Java*  
+- *C#*
+
+### Database:
+- *MySQL*
+
+### Plataformas:
+- *Visual Studio Code*
+
+---
+
+## Objetivo:
+Continuar evoluindo como desenvolvedora, contribuindo com projetos open source e aprimorando minhas habilidades para atuar em equipes técnicas multidisciplinares.
+
+---
